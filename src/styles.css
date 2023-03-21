@@ -1,0 +1,11 @@
+#hat {
+  position: absolute;
+  display: none;
+  text-align: center;
+}
+#hat.visible {
+  display: block;
+}
+.container {
+  position: relative;
+}
